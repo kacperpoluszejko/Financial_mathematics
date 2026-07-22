@@ -1,4 +1,4 @@
-# Financial mathematics excercises
+# Financial mathematics excercises 🧮
 
 A couple of basic excersises concerning modeling financial mathematics and statistics. For example:
 
